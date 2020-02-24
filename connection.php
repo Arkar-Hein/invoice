@@ -1,8 +1,8 @@
 <?php
-$host="db-mysql-nyc1-62454-do-user-7159522-0.db.ondigitalocean.com";
-$user="doadmin";
-$pswd="ydi3ko2dop9iikxg";
-$dbname="defaultdb";
+$host="localhost";
+$user="arkarhein";
+$pswd="97895296";
+$dbname="electro";
 $conn=mysqli_connect($host,$user,$pswd,$dbname);
 	if (!$conn)
 	{
