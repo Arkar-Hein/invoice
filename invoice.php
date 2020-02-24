@@ -21,10 +21,10 @@ $password=$re['phone_number'];
 	
 	<title>Electro</title>
 	
-	<link rel='stylesheet' type='text/css' href='css/style.css' />
-	<link rel='stylesheet' type='text/css' href='css/print.css' media="print" />
-	<script type='text/javascript' src='js/jquery-1.3.2.min.js'></script>
-	<script type='text/javascript' src='js/example.js'></script>
+	<link rel='stylesheet' type='text/css' href='style.css' />
+	<link rel='stylesheet' type='text/css' href='print.css' media="print" />
+	<script type='text/javascript' src='jquery-1.3.2.min.js'></script>
+	<script type='text/javascript' src='example.js'></script>
 
 </head>
 
